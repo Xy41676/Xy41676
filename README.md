@@ -9,6 +9,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Xy41676&show_icons=true&theme=dark&locale=en" alt="Xy41676" align=center/></p>
 
-Credit: <Xy41676>(https://github.com/Xy41676)
+Credit: [Xy41676](https://github.com/Xy41676)
 
 Last Edited on: 11/04/2024
